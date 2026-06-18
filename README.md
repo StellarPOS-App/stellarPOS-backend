@@ -1,48 +1,48 @@
-# 🚀 StellarPOS Backend API
+# StellarPOS Backend API
 
 Robust, scalable backend API server for StellarPOS with comprehensive Stellar blockchain integration, business logic, and data management.
 
-## 🌟 Overview
+## Overview
 
 StellarPOS Backend provides a comprehensive API ecosystem for point-of-sale operations, featuring Stellar blockchain integration, real-time payment processing, inventory management, and business analytics.
 
 ## ⚡ Features
 
-### 🔐 Authentication & Authorization
+### Authentication & Authorization
 - **JWT Authentication**: Secure token-based auth
 - **Role-Based Access Control**: Admin, manager, cashier roles
 - **Multi-tenant Support**: Organization-based data isolation
 - **Session Management**: Secure session handling
 - **API Key Management**: Third-party integrations
 
-### 💳 Payment Processing
+### Payment Processing
 - **Stellar Integration**: Native XLM and asset support
 - **Payment Verification**: Blockchain transaction validation
 - **Multi-Currency**: Support for various Stellar assets
 - **Real-time Processing**: Instant payment confirmation
 - **Refund Management**: Automated refund processing
 
-### 📊 Business Management
+### Business Management
 - **Inventory System**: Product catalog and stock management
 - **Transaction Handling**: Complete sales cycle management
 - **Customer Management**: Customer profiles and history
 - **Analytics Engine**: Real-time business insights
 - **Reporting System**: Comprehensive business reports
 
-### 🔄 Real-time Features
+### Real-time Features
 - **WebSocket Support**: Live updates and notifications
 - **Payment Streaming**: Real-time payment status
 - **Inventory Alerts**: Stock level notifications
 - **Transaction Monitoring**: Live transaction feed
 
-### 🛡️ Security & Compliance
+### Security & Compliance
 - **Data Encryption**: End-to-end encryption
 - **Audit Logging**: Complete action audit trail
 - **Rate Limiting**: API abuse protection
 - **Input Validation**: Comprehensive data validation
 - **CORS Configuration**: Secure cross-origin requests
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Runtime**: Node.js 18+ with TypeScript
 - **Framework**: Express.js with async/await
@@ -57,7 +57,7 @@ StellarPOS Backend provides a comprehensive API ecosystem for point-of-sale oper
 - **Monitoring**: Winston logger + metrics
 - **Process Management**: PM2 for production
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
