@@ -290,11 +290,35 @@ curl http://localhost:3000/health
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+We welcome contributions from developers around the world! 🌍
+
+### Quick Start
+1. **⭐ Star** this repository if you find it helpful
+2. **🍴 Fork** the repository to your GitHub account  
+3. **📥 Clone** your fork locally
+4. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)
+5. **✨ Make** your changes and add tests
+6. **✅ Commit** your changes (`git commit -m 'Add some amazing feature'`)
+7. **📤 Push** to your branch (`git push origin feature/amazing-feature`)
+8. **🔄 Open** a Pull Request
+
+### 👥 Our Contributors
+We have an amazing community of **10+ active contributors**! See our [Contributors Guide](./CONTRIBUTORS.md) for the full list.
+
+### 🎯 Ways to Contribute
+- 🐛 **Report bugs** and performance issues
+- 💡 **Suggest API improvements** and new endpoints
+- 📝 **Improve documentation** and API specs
+- 🧪 **Write tests** and improve coverage
+- 🔒 **Enhance security** features
+- ⚡ **Optimize performance** and scalability
+- 🗄️ **Improve database** efficiency
+- 🔧 **Add developer tools** and utilities
+
+### 📋 Good First Issues
+New to backend development? Check out our [Good First Issues](https://github.com/StellarPOS-App/stellarPOS-backend/labels/good%20first%20issue)!
+
+**Detailed Contributing Guide**: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 📄 License
 
