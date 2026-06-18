@@ -6,7 +6,7 @@ Robust, scalable backend API server for StellarPOS with comprehensive Stellar bl
 
 StellarPOS Backend provides a comprehensive API ecosystem for point-of-sale operations, featuring Stellar blockchain integration, real-time payment processing, inventory management, and business analytics.
 
-## ⚡ Features
+## Features
 
 ### Authentication & Authorization
 - **JWT Authentication**: Secure token-based auth
